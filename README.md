@@ -1,7 +1,7 @@
 # BattleSheep
 Smart Brand discovery
 
-![](images/stat.png)
+![](images/stats.png)
 Data Source: twitter
 Others:
 - https://www.socialbakers.com/statistics/facebook/
