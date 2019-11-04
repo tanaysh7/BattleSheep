@@ -44,7 +44,7 @@ def get_all_tweets(screen_name):
         oldest = alltweets[-1].id - 1
         
         print ("...%s tweets downloaded so far" % (len(alltweets)))
-    print(alltweets)
+    #print(alltweets)
     #transform the tweepy tweets into a 2D array that will populate the csv    
     outtweets = [[tweet.id_str, tweet.created_at, tweet.text.encode("utf-8")] for tweet in alltweets]
     
