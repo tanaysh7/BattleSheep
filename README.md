@@ -10,6 +10,7 @@ You can contribute to this project by checking out the [Project page](https://gi
 
 ![](images/stats.png)
 Data Source: twitter
+
 Others:
 - https://www.socialbakers.com/statistics/facebook/
 - https://www.socialbakers.com/statistics/twitter/
