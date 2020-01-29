@@ -1,6 +1,6 @@
 # BattleSheep
 
-Smart Brand to Brand discovery (Idea is to discover brands that already have an social community overlap)
+Smart Brand to Brand discovery (Idea is to discover brands that already have a social community overlap)
 
 1. Celeb/Media tweets -> Named Entity Recognition (NER) -> Endorsed brand (Company) in their tweet -> Find people who retweeted that -> Use their tweets and find more brands. -> Go N level deeper with retweets with reducing weight -> Find brand discovery score with sentiment analysis.
 
